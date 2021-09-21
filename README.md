@@ -1,2 +1,2 @@
 # Drought-Prediction
-This project develops and compares various classification models using R to predict drought intensity using USA 's meteorological data
+This project applies predictive modeling techniques using R to predict drought intensity using USA 's meteorological data
